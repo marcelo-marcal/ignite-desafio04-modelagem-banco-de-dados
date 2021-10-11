@@ -4,7 +4,7 @@ Desafio 02 - Modelagem do banco de dados
 
 
 <h1 align="center">
-    <img src="./modelagem-banco-de-dados.png" />
+    <img src=".img/modelagem-banco-de-dados.png" />
 </h1>
 
 
